@@ -15,7 +15,7 @@
 
 ### Section 22 Hearing
 
-* [OIPC Process Instructions](http://s3.cleverelephant.ca/oipc/2015_s22_hearing/Instructions%20for%20Written%20Inquiries%20(15-Jan-15.pdf)
+* [OIPC Process Instructions](http://s3.cleverelephant.ca/oipc/2015_s22_hearing/Instructions%20for%20Written%20Inquiries%20%2815-Jan-15.pdf)
 
 * CITZ Submission
   - [Dan Ehle Affadavit](http://s3.cleverelephant.ca/oipc/2015_s22_hearing/citz_submission/AFF%20Ehle%20sworn%20Apr%2010-15%20severed.pdf)
