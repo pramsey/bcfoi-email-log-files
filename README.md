@@ -30,6 +30,13 @@
      - **12.3.1.C.3** "Employees must have their manager's permission for the personal use of IT resources." 
      - **12.3.1.C.4** "Any content created or transmitted using government equipment or retained within the government network will be managed as a government record."
   - 2014, March 21 (PDF file creation date is Aug 25, 2014)
-     - **12.3.1.C.15** "Reasonable personal use of government IT Resources by Employees is permitted."
+     - **12.3.1.C.15** "Reasonable personal use of government IT Resources by Employees **is permitted**."
      - **12.3.1.C.16** "For privacy reasons and to reduce the cost of electronic storage for government, Employees must limit the amount of personal Records they store on government systems."
+     - **12.3.1.E.25**  Any collection, access, use, transmission, or disposal of Government Information or use of government IT Resources, **whether for personal reasons or not**, may be audited, inspected, monitored and/or investigated to:
+         - maintain, repair and manage IT Resources for the efficient operation of business systems;
+         - meet legal requirements to produce information, including by engaging in ediscovery;
+         - ensure accessibility of government IT Resources for the continuity of work processes;
+         - improve business processes and manage productivity; and
+         - ensure compliance with legislative and policy requirements, including the Standards of Conduct.
 
+* [Section 69(2)](http://www.bclaws.ca/civix/document/LOC/complete/statreg/--%20F%20--/Freedom%20of%20Information%20and%20Protection%20of%20Privacy%20Act%20%5BRSBC%201996%5D%20c.%20165/00_Act/96165_06.xml) of BC FOIPPA requires the government "maintain and publish a personal information directory to provide information about records in the custody or under the control of ministries of the government of British Columbia". The [directory](http://catalogue.data.gov.bc.ca/dataset/bc-personal-information-directory-pid) published by the government does not include the email logs as a source of personal information.
