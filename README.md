@@ -32,4 +32,9 @@
   - 2014, March 21 (PDF file creation date is Aug 25, 2014)
      - **12.3.1.C.15** "Reasonable personal use of government IT Resources by Employees is permitted."
      - **12.3.1.C.16** "For privacy reasons and to reduce the cost of electronic storage for government, Employees must limit the amount of personal Records they store on government systems."
-
+     - **12.3.1.E.25**  Any collection, access, use, transmission, or disposal of Government Information or use of government IT Resources, whether for personal reasons or not, may be audited, inspected, monitored and/or investigated to:
+         - maintain, repair and manage IT Resources for the efficient operation of business systems;
+         - meet legal requirements to produce information, including by engaging in ediscovery;
+         - ensure accessibility of government IT Resources for the continuity of work processes;
+         - improve business processes and manage productivity; and
+         - ensure compliance with legislative and policy requirements, including the Standards of Conduct.
