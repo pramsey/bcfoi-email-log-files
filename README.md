@@ -24,12 +24,12 @@
 
 ### Other Materials
 
-* The [Appropriate Use Policy](http://www.cio.gov.bc.ca/local/cio/appropriate_use/policy.pdf) appears to have been updated since the S43 hearing. 
+* The [Appropriate Use Policy](http://www.cio.gov.bc.ca/local/cio/appropriate_use/policy.pdf) appears to have been updated shortly after the S43 hearing (Mar 8, 2014).
 
   - 2014, February
      - **12.3.1.C.3** "Employees must have their manager's permission for the personal use of IT resources." 
      - **12.3.1.C.4** "Any content created or transmitted using government equipment or retained within the government network will be managed as a government record."
-  - 2014, March
+  - 2014, March 21 (PDF file creation date is Aug 25, 2014)
      - **12.3.1.C.15** "Reasonable personal use of government IT Resources by Employees is permitted."
      - **12.3.1.C.16** "For privacy reasons and to reduce the cost of electronic storage for government, Employees must limit the amount of personal Records they store on government systems."
 
