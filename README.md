@@ -38,3 +38,5 @@
          - ensure accessibility of government IT Resources for the continuity of work processes;
          - improve business processes and manage productivity; and
          - ensure compliance with legislative and policy requirements, including the Standards of Conduct.
+
+* [Section 69(2)](http://www.bclaws.ca/civix/document/LOC/complete/statreg/--%20F%20--/Freedom%20of%20Information%20and%20Protection%20of%20Privacy%20Act%20%5BRSBC%201996%5D%20c.%20165/00_Act/96165_06.xml) of BC FOIPPA requires the government "maintain and publish a personal information directory to provide information about records in the custody or under the control of ministries of the government of British Columbia". The [directory](http://catalogue.data.gov.bc.ca/dataset/bc-personal-information-directory-pid) published by the government does not include the email logs as a source of personal information.
