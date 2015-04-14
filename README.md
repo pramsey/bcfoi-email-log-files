@@ -17,9 +17,12 @@
 
 * [OIPC Process Instructions](http://s3.cleverelephant.ca/oipc/2015_s22_hearing/Instructions%20for%20Written%20Inquiries%20%2815-Jan-15.pdf)
 * CITZ Submission
+   - [Initial Submission by the Public Body](http://s3.cleverelephant.ca/oipc/2015_s22_hearing/citz_submission/PB%20Initial%20submissions%20Apr%2013-15.pdf)
    - [Dan Ehle Affadavit](http://s3.cleverelephant.ca/oipc/2015_s22_hearing/citz_submission/AFF%20Ehle%20sworn%20Apr%2010-15%20severed.pdf)
    - [Cindy Elbahir Affidavit](http://s3.cleverelephant.ca/oipc/2015_s22_hearing/citz_submission/AFF%20Elbahir%20Sworn%20Apr%2010-15.pdf)
    - [Martin Monkman Affidavit](http://s3.cleverelephant.ca/oipc/2015_s22_hearing/citz_submission/Aff%20Monkman%20severed.pdf)
+   - [Brad Williams Affidavit](http://s3.cleverelephant.ca/oipc/2015_s22_hearing/citz_submission/AFF%20Williams%20sworn%20Apr%2010-15.pdf)
+   - [List of Cases](http://s3.cleverelephant.ca/oipc/2015_s22_hearing/citz_submission/List%20of%20Orders-Case%20law%20FINAL.docx)
 
 
 ### Other Materials
