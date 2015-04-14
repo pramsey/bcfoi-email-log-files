@@ -23,4 +23,11 @@
   - [Martin Monkman Affidavit](http://s3.cleverelephant.ca/oipc/2015_s22_hearing/citz_submission/Aff%20Monkman%20severed.pdf)
 
 
+### Other Materials
+
+* [Appropriate Use Policy](http://www.cio.gov.bc.ca/local/cio/appropriate_use/policy.pdf) Appears to have been updated since the S43 hearing. 
+  - 2014, February. 12.3.1.c.3 "Employees must have their manager's permission for the personal use of IT resources." "Any content created or transmitted using government equipment or retained within the government network will be managed as a government record."
+  - 2014, March. 12.3.1.C.15, "Reasonable personal use of government IT Resources by Employees is permitted."
+
+
 
