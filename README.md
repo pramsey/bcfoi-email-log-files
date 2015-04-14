@@ -30,9 +30,9 @@
      - **12.3.1.C.3** "Employees must have their manager's permission for the personal use of IT resources." 
      - **12.3.1.C.4** "Any content created or transmitted using government equipment or retained within the government network will be managed as a government record."
   - 2014, March 21 (PDF file creation date is Aug 25, 2014)
-     - **12.3.1.C.15** "Reasonable personal use of government IT Resources by Employees is permitted."
+     - **12.3.1.C.15** "Reasonable personal use of government IT Resources by Employees **is permitted**."
      - **12.3.1.C.16** "For privacy reasons and to reduce the cost of electronic storage for government, Employees must limit the amount of personal Records they store on government systems."
-     - **12.3.1.E.25**  Any collection, access, use, transmission, or disposal of Government Information or use of government IT Resources, whether for personal reasons or not, may be audited, inspected, monitored and/or investigated to:
+     - **12.3.1.E.25**  Any collection, access, use, transmission, or disposal of Government Information or use of government IT Resources, **whether for personal reasons or not**, may be audited, inspected, monitored and/or investigated to:
          - maintain, repair and manage IT Resources for the efficient operation of business systems;
          - meet legal requirements to produce information, including by engaging in ediscovery;
          - ensure accessibility of government IT Resources for the continuity of work processes;
