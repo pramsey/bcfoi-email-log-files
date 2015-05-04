@@ -23,7 +23,7 @@
    - [Martin Monkman Affidavit](http://s3.cleverelephant.ca/oipc/2015_s22_hearing/citz_submission/Aff%20Monkman%20severed.pdf)
    - [Brad Williams Affidavit](http://s3.cleverelephant.ca/oipc/2015_s22_hearing/citz_submission/AFF%20Williams%20sworn%20Apr%2010-15.pdf)
    - [List of Cases](http://s3.cleverelephant.ca/oipc/2015_s22_hearing/citz_submission/List%20of%20Orders-Case%20law%20FINAL.docx)
-
+* [Ramsey Submission](http://s3.cleverelephant.ca/oipc/2015_s22_hearing/F14-58135-ramsey-response.pdf)
 
 ### Other Materials
 
