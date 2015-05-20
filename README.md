@@ -24,6 +24,7 @@
    - [Brad Williams Affidavit](http://s3.cleverelephant.ca/oipc/2015_s22_hearing/citz_submission/AFF%20Williams%20sworn%20Apr%2010-15.pdf)
    - [List of Cases](http://s3.cleverelephant.ca/oipc/2015_s22_hearing/citz_submission/List%20of%20Orders-Case%20law%20FINAL.docx)
 * [Ramsey Submission](http://s3.cleverelephant.ca/oipc/2015_s22_hearing/F14-58135-ramsey-response.pdf)
+* [CITZ Reply](http://s3.cleverelephant.ca/oipc/2015_s22_hearing/citz_submission/Reply%20Submissions%20May%2019%202015.pdf)
 
 ### Other Materials
 
