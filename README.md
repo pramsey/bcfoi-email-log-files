@@ -3,14 +3,14 @@
 
 ### Section 43 Hearing (2014)
 
-* CITZ Submission
+* CITZ Submission (March 4, 2014)
    - [Summary](http://s3.cleverelephant.ca/oipc/2014_s43_hearing/citz_submission/Summary.docx)
    - [Submission by the Public Body](http://s3.cleverelephant.ca/oipc/2014_s43_hearing/citz_submission/Initials%20Final.pdf)
    - [Cindy Elbahir Affidavit](http://s3.cleverelephant.ca/oipc/2014_s43_hearing/citz_submission/Elbahir%20Aff%20sworn%20Feb%2028-14.pdf)
    - [Dan Ehle Affadavit](http://s3.cleverelephant.ca/oipc/2014_s43_hearing/citz_submission/Ehle%20Aff%20sworn%20Feb%2028-14.pdf)
    - [List of Cases](http://s3.cleverelephant.ca/oipc/2014_s43_hearing/citz_submission/List%20of%20cases.docx)
-* [Ramsey Submission](http://s3.cleverelephant.ca/oipc/2014_s43_hearing/F13-54010%20Ramsey%20Response.pdf)
-* [OIPC Order](http://s3.cleverelephant.ca/oipc/2014_s43_hearing/OrderF14-13.pdf)
+* [Ramsey Submission (March 8, 2014)](http://s3.cleverelephant.ca/oipc/2014_s43_hearing/F13-54010%20Ramsey%20Response.pdf)
+* [OIPC Order (May 15, 2014)](http://s3.cleverelephant.ca/oipc/2014_s43_hearing/OrderF14-13.pdf)
 
 
 ### Section 22 Hearing (2015)
