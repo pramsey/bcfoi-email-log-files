@@ -27,6 +27,8 @@ So I made this request. I didn't expect it to take over two years and require th
 
 ### Section 43 Hearing (2014)
 
+The government first stated (roughly) that because the logs contained personal information and they would have to review them all line by line my request was a nuisance on its face and they should be able to disregard it, under [Section 43](http://www.bclaws.ca/civix/document/LOC/complete/statreg/--%20F%20--/Freedom%20of%20Information%20and%20Protection%20of%20Privacy%20Act%20[RSBC%201996]%20c.%20165/00_Act/96165_04.xml#section43) of the BC FOI Act.
+
 * CITZ Submission (March 4, 2014)
    - [Summary](http://s3.cleverelephant.ca/oipc/2014_s43_hearing/citz_submission/Summary.docx)
    - [Submission by the Public Body](http://s3.cleverelephant.ca/oipc/2014_s43_hearing/citz_submission/Initials%20Final.pdf)
@@ -36,8 +38,11 @@ So I made this request. I didn't expect it to take over two years and require th
 * [Ramsey Submission (March 8, 2014)](http://s3.cleverelephant.ca/oipc/2014_s43_hearing/F13-54010%20Ramsey%20Response.pdf)
 * [OIPC Order (May 15, 2014)](http://s3.cleverelephant.ca/oipc/2014_s43_hearing/OrderF14-13.pdf)
 
+The adjudicator did not evaluate the arguments in detail, he merely stated that Section 43 didn't apply since I was asking for the records in good faith and not trying to harass or impair the government with my request. And so we moved on to the next stage.
 
 ### Section 22 Hearing (2015)
+
+The government next argued that because the request included personal information, and because it would be too much work to review all the data and remove the information, that they were unable to sever the information, so the release should be denied, under [Section 22](http://www.bclaws.ca/civix/document/LOC/complete/statreg/--%20F%20--/Freedom%20of%20Information%20and%20Protection%20of%20Privacy%20Act%20[RSBC%201996]%20c.%20165/00_Act/96165_02.xml#section22) of the BC FOI Act.
 
 * [OIPC Process Instructions](http://s3.cleverelephant.ca/oipc/2015_s22_hearing/Instructions%20for%20Written%20Inquiries%20%2815-Jan-15.pdf)
 * CITZ Submission (April 13, 2015)
