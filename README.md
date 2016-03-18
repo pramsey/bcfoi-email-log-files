@@ -55,6 +55,12 @@ The government next argued that because the request included personal informatio
 * [Ramsey Submission (May 4, 2015)](http://s3.cleverelephant.ca/oipc/2015_s22_hearing/F14-58135-ramsey-response.pdf)
 * [CITZ Reply (May 19, 2015)](http://s3.cleverelephant.ca/oipc/2015_s22_hearing/citz_submission/Reply%20Submissions%20May%2019%202015.pdf)
 
+### Final Decision
+
+In the end, the Commissioner ruled in the favor of the government in the Section 22 process: they could withold the data because (a) it did include personal information and (b) the effort involved in severing said information would be too high.
+
+* [OIPC Order F15-63](https://www.oipc.bc.ca/orders/1887)
+
 ### Other Materials
 
 * The [Appropriate Use Policy](http://www.cio.gov.bc.ca/local/cio/appropriate_use/policy.pdf) appears to have been updated shortly after the S43 hearing (Mar 8, 2014).
